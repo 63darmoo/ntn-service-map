@@ -95,7 +95,7 @@
         "region": "America",
         "name": "SNOC",
         "tac": 2,
-        "svc": 1,
+        "svc": 0,
         "anchor": 29,
         "non_anchor": []
       },
